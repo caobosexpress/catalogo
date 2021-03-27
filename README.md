@@ -1,2 +1,2 @@
 # catalogo
-Catalogo de Productos ofrecidos
+Catalogo de Productos ofrecidos Licores, Combos
